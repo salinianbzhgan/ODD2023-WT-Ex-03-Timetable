@@ -118,5 +118,11 @@ Execute the program
     </table>
 </body>
 </html>
+
 # OUPUT
-![Screenshot 2023-11-18 104821](https://github.com/salinianbzhgan/ODD2023-WT-Ex-03-Timetable/assets/145742862/5279d304-a6bc-46f3-97ed-c0ef22e63174)
+
+
+
+
+![Screenshot 2023-11-18 104821](https://github.com/salinianbzhgan/ODD2023-WT-Ex-03-Timetable/assets/145742862/63c7b922-966e-43ea-ab7f-c6743e654ba7)
+
